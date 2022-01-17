@@ -311,7 +311,7 @@ li a {
 }
 
 .line{
-  margin: 0px 30px 0 30px;
+  margin: 70px 30px 0 30px;
 }
 
 .footer{
@@ -323,7 +323,7 @@ li a {
   grid-template-columns: 20% 80%;
 }
 
-.grid-container6 h5{
+.grid-container6 p{
   font-size: 35px;
 }
 
